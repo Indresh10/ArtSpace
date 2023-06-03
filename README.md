@@ -1,6 +1,6 @@
 # ArtSpace App
 
-![ArtSpace App](/images/artwork.jpg)
+![ArtSpace App](/images/artwork.png)
 
 ArtSpace is an Android application designed to bring the world of art to your fingertips. With ArtSpace, you can browse and discover a collection of 8 beautiful artworks. Whether you're an art enthusiast, a student, or simply looking for inspiration, ArtSpace provides a seamless platform to explore and appreciate art.
 
