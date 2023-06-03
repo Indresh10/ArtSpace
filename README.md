@@ -1,6 +1,6 @@
 # ArtSpace App
 
-![ArtSpace App](artwork.jpg)
+![ArtSpace App](/images/artwork.png)
 
 ArtSpace is an Android application designed to bring the world of art to your fingertips. With ArtSpace, you can browse and discover a collection of 8 beautiful artworks. Whether you're an art enthusiast, a student, or simply looking for inspiration, ArtSpace provides a seamless platform to explore and appreciate art.
 
@@ -14,14 +14,15 @@ ArtSpace is an Android application designed to bring the world of art to your fi
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-![Screenshot 3](screenshot3.png)
-![Screenshot 4](screenshot4.png)
+![Screenshot 1](/images/Screenshot1.png)
+![Screenshot 2](/images/Screenshot2.png)
+![Screenshot 3](/images/Screenshot3.png)
+![Screenshot 4](/images/Screenshot4.png)
+![Screenshot 5](/images/Screenshot5.png)
 
 ## Installation
 
-1. Download the APK file from the [releases](https://github.com/username/repo/releases) section of this repository.
+1. Download the APK file from the [releases](https://github.com/Indresh10/ArtSpace/releases) section of this repository.
 2. Transfer the APK file to your Android device.
 3. On your Android device, navigate to **Settings > Security** and enable **Unknown sources** to allow the installation of apps from sources other than the Play Store.
 4. Use a file manager app to locate the APK file and tap on it to begin the installation.
