@@ -47,4 +47,4 @@ Contributions to ArtSpace are welcome! If you encounter any bugs, have suggestio
 
 ## Acknowledgments
 
-I would like to thank [Freepik AI Generated Image](https://www.freepik.com/search?ai=only&format=search&last_filter=ai&last_value=only&type=photo) for providing the artwork inspiration for ArtSpace:
+I would like to thank [Freepik AI Generated Image](https://www.freepik.com/search?ai=only&format=search&last_filter=ai&last_value=only&type=photo) for providing the artwork inspiration for ArtSpace
