@@ -14,13 +14,19 @@ ArtSpace is an Android application designed to bring the world of art to your fi
 
 ## Screenshots
 
-<div>
-  <img src="/images/Screenshot1.png" alt="Screenshot 1" width="200"/>
-  <img src="/images/Screenshot2.png" alt="Screenshot 2" width="200"/>
-  <img src="/images/Screenshot3.png" alt="Screenshot 3" width="200"/>
-  <img src="/images/Screenshot4.png" alt="Screenshot 4" width="200"/>
-  <img src="/images/Screenshot5.png" alt="Screenshot 5" width="200"/>
-</div>
+  - DarkMode
+  <div>
+  <img src="/images/Screenshot1.png" alt="Screenshot 1" width="300"/>
+  <img src="/images/Screenshot2.png" alt="Screenshot 2" width="300"/>
+  <img src="/images/Screenshot3.png" alt="Screenshot 3" width="300"/>
+  </div>
+  <br>
+  
+  - LightMode
+  <div>
+  <img src="/images/Screenshot4.png" alt="Screenshot 4" width="400"/>
+  <img src="/images/Screenshot5.png" alt="Screenshot 5" width="400"/>
+  </div>
 
 
 ## Installation
